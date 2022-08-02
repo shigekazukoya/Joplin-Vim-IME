@@ -1,0 +1,13 @@
+{
+	"manifest_version": 1,
+	"id": "D42BF372-65B3-4838-9C72-091AA6C64E43",
+	"app_min_version": "2.8",
+	"version": "1.0.0",
+	"name": "joplin-vim-IME",
+	"description": "",
+	"author": "Shigekazu Koya",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": [],
+	"categories": []
+}
